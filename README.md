@@ -21,7 +21,7 @@ The analysis includes data cleaning, preprocessing, feature engineering, visuali
 ## 📂 Dataset
 
 - **Source:** Kaggle – Google Play Store Apps Dataset
-- **Platform:** https://www.kaggle.com/
+- **Platform:** https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
 
 ---
 
